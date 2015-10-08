@@ -1,0 +1,2 @@
+# SampleJSFApp
+JSF application
